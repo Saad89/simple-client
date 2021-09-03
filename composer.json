@@ -7,7 +7,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
-        "enqueue/enqueue": "^0.10",
+        "saad89/enqueue": "^0.10.10",
         "queue-interop/amqp-interop": "^0.8.2",
         "queue-interop/queue-interop": "^0.8",
         "symfony/config": "^4.3|^5"
@@ -38,5 +38,12 @@
         "branch-alias": {
             "dev-master": "0.10.x-dev"
         }
+    },
+  "repositories": {
+    "saad89/enqueue": {
+      "type": "vcs",
+      "url": "git@github.com:Saad89/enqueue.git",
+      "trunk-path": "master"
     }
+  }
 }

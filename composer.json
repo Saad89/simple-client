@@ -1,5 +1,5 @@
 {
-    "name": "enqueue/simple-client",
+    "name": "saad89/simple-client",
     "type": "library",
     "description": "Message Queue Simple Client",
     "keywords": ["messaging", "queue", "amqp", "rabbitmq"],
